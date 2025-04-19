@@ -92,21 +92,6 @@ R² (Coefficient of Determination)
 
 📊 Visualizations and performance comparisons are available in the project notebooks.
 
-📁 Repository Structure
-bash
-Copy
-Edit
-.
-├── data/                      # Raw and processed datasets
-├── notebooks/                # Jupyter notebooks for each ML stage
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_building.ipynb
-│   └── ...
-├── models/                   # Saved models and outputs
-├── visuals/                  # Charts and graphs
-├── README.md
-└── requirements.txt
 ✅ Key Takeaways
 Thoughtful preprocessing and feature engineering significantly impact model performance.
 
