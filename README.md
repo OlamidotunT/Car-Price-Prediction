@@ -1,5 +1,5 @@
-**AML_Car_Price_Prediction
-🚗 Autotrader Car Price Prediction Model**
+`****AML_Car_Price_Prediction**`
+**🚗 Autotrader Car Price Prediction Model****
 This project aims to predict the prices of used cars using a real-world dataset from Autotrader, one of our university's industry partners. With over 402,000 records, this project demonstrates a complete machine learning workflow—from data preprocessing and feature engineering to model training and evaluation.
 
 **📊 1. Data Processing for Machine Learning**
